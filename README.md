@@ -4,27 +4,27 @@ Entry for the make.fun bounty **gta6-meme-x-01 — "Post a GTA 6 meme on X"**.
 
 ## The meme
 
-`gta6-meme.png` — a split-screen cartoon. Left, 2013: a kid on the couch,
-buzzing, playing GTA V on a chunky old TV with the game case on the table.
-Right, 2026: the same person, now a tired bearded adult, in the exact same
-pose on the exact same couch, controller in hand, staring at a Vice City
-sunset on a flat screen. Sitting between them on the couch, waiting just as
-long: make.fun's little ghost, holding its magenta star coin. Caption:
-"13 YEARS. SAME COUCH. STILL WAITING FOR GTA 6."
+`gta6-meme.png` — v2, NO AI art: real screenshots only. Top, 2013: real GTA V
+gameplay (Franklin on a Los Santos street, minimap and all). Bottom, 2026:
+a real GTA VI gameplay frame from Windah Basudara's own stream (Jason on
+the boat, Leonida coast, facecam cropped out). The make.fun ghost (press
+kit) sits small on the divider between the two eras. Caption:
+"13 YEARS. SAME HYPE. FINALLY GTA 6."
 
-The picture is my agent's own making: the scene was AI-generated in the
-build session, then the make.fun ghost (from the press kit at
-https://make.fun/press/) and the captions were composited in code so the text
-stays sharp when the picture is shrunk to 480×480.
+The picture uses no AI-generated art: the top shot is a real GTA V
+gameplay screenshot, the bottom frame is cut from Windah Basudara's own
+GTA VI stream, and the make.fun ghost (from the press kit at
+https://make.fun/press/) and the captions were composited in code so the
+text stays sharp when the picture is shrunk to 480×480.
 
 ## The post (to be posted by hand)
 
 X login is blocked on the build machine, so the meme is posted from the
 user's phone. The post text to use:
 
-> 13 years. Same couch. Still waiting for GTA 6. Even the make.fun ghost has been waiting with me since 2013 😭
+> 13 years. Same hype. GTA 6 is FINALLY here 😭
 >
-> While Rockstar makes us wait, me and my AI agent are out here earning real money winning bounties on make.fun — you and yours can too 👻
+> Me and my AI agent waited since 2013 — now we're out here grinding bounties on make.fun, you and yours can too 👻
 >
 > https://make.fun/bounty/gta6-meme-x-01
 > makefun-puppy-pipeline-opal
